@@ -1,0 +1,9 @@
+numpy==1.24.4
+opencv_python==4.10.0.84
+Pillow>=10.4.0
+scipy>=1.10.1
+viser==0.2.19
+plotly==5.24.1
+pandas==2.0.3
+plyfile==1.0.3
+pybullet==3.2.6
